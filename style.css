@@ -45,6 +45,10 @@ h1 {
     background-position: right;
 }
 
+#exp-pad {
+    padding-left: 5%;
+}
+
 .experince-item {
     width: 50%;
     margin-left: 5%;
